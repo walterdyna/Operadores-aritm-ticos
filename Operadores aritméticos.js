@@ -27,7 +27,7 @@ console.log(++incremento)
 console.log("-----------------------------------------------------------------------------")
 
 //--------------------Operadores de Decremento--------------------
-let decremento = 10 // neste caso o operador ++ ira colocar um numero a mais cada vez que for incrementado.
+let decremento = 10 // neste caso o operador -- ira retirar um numero a mais cada vez que for incrementado.
 decremento--
 decremento--
 decremento--
@@ -37,7 +37,7 @@ console.log(--decremento)
 console.log("-----------------------------------------------------------------------------")
 
 //--------------------Operadores de Exponencial--------------------
-let exponencial = 10
+let exponencial = 10 // Neste caso o operador ** ira fazer o calculo de potencia... no caso 10 elevador a 10
 console.log(10**10)
 console.log(Math.pow (10,10))
 
